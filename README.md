@@ -41,12 +41,13 @@ python langchainclient.py
 ## Pruebas
 
 ### Cliente
-![image](https://github.com/user-attachments/assets/22b836c8-6ffd-42ce-8a31-7296dd0d6253)
+![image](https://github.com/user-attachments/assets/73996fe1-2819-469b-9b26-abbd07c0ad53)
 
 ### Servidor
-![image](https://github.com/user-attachments/assets/5ef7aa48-0165-40de-a879-0b846fe39464)
+![image](https://github.com/user-attachments/assets/5af617cd-9e64-47b6-a763-6c8898ce86a2)
+![image](https://github.com/user-attachments/assets/713bf5e7-d35c-4032-a395-f3ab5104a2bf)
+![image](https://github.com/user-attachments/assets/71984914-4aef-4cdc-b37d-9dc89f910b6d)
 
-![image](https://github.com/user-attachments/assets/74897ef5-2da3-4e00-bcc3-5c6db61be443)
 
 ## Autor
 
